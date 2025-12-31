@@ -1,5 +1,6 @@
 # My Portfolio
-Apparently, turns out you cant deploy Asp .Net on ghithub as it only deploys basic html/css websites. What a bummer. Will definately create another portfolio using html/css.
+Apparently, turns out you cant deploy Asp .Net on ghithub as it only deploys basic html/css websites.
+What a bummer. Will definately create another portfolio using html/css.
 
 # Screenshots of the output!
 ##Home:
@@ -22,3 +23,6 @@ Apparently, turns out you cant deploy Asp .Net on ghithub as it only deploys bas
 ##Contact:
 
 ![image alt](https://github.com/nashrah-18/NashrahPortfolio/blob/main/ss6web.png?raw=true)
+
+# Deployment:
+Deployment can only be done at Microsoft Azure since only that supports Asp .Net
